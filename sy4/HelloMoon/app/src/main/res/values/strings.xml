@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">郝佳毅—20174695—sy4</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hellomoon_play">Play</string>
+    <string name="hellomoon_pause">Pause</string>
+    <string name="hellomoon_stop">Stop</string>
+    <string name="hellomoon_video">Video</string>
+    <string name="hellomoon_description">Neil Armstrong stepping onto the moon</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

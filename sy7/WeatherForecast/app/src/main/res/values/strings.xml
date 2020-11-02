@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">计科1701-郝佳毅-20174695-sy7</string>
+    <string name="action_setting">Setting</string>
+
+    <string name="input_hint">Input city in China</string>
+    <string name="fresh">fresh</string>
+    <string name="loading">loading</string>
+</resources>
